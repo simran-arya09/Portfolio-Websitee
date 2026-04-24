@@ -1,0 +1,165 @@
+{
+  "hero": {
+    "name": "Simran Arya",
+    "tagline": "Aspiring Software Engineer",
+    "subtitle": "Building AI-powered solutions & scalable web applications",
+    "location": "Bhubaneswar, Odisha",
+    "status": "Open to Internships & Opportunities",
+    "codingProfiles": [
+      {
+        "platform": "LeetCode",
+        "url": "https://leetcode.com/",
+        "username": "your_username"
+      },
+      {
+        "platform": "CodeChef",
+        "url": "https://www.codechef.com/",
+        "username": "your_username"
+      },
+      {
+        "platform": "Codeforces",
+        "url": "https://codeforces.com/",
+        "username": "your_username"
+      }
+    ]
+  },
+  "about": {
+    "summary": "Aspiring Software Engineer with hands-on experience in Machine Learning and Web Development. Skilled in Python, TensorFlow, and problem-solving. Interested in building scalable and secure applications.",
+    "areasOfInterest": [
+      "Artificial Intelligence & Machine Learning",
+      "Software Development",
+      "Cybersecurity"
+    ],
+    "education": [
+      {
+        "degree": "B.Tech CSE",
+        "institution": "Kalinga Institute of Industrial Technology (KIIT)",
+        "location": "Bhubaneswar, OD",
+        "year": "2023 – 2027",
+        "grade": "CGPA: 7.5"
+      },
+      {
+        "degree": "HSC (12th)",
+        "institution": "VV Arts Commerce & Science Junior College",
+        "location": "Samudrapur, MH",
+        "year": "2022 – 2023",
+        "grade": "70%"
+      },
+      {
+        "degree": "SSC (10th)",
+        "institution": "St. John's High School CBSE",
+        "location": "Hinganghat, MH",
+        "year": "2020 – 2021",
+        "grade": "80%"
+      }
+    ],
+    "coursework": [
+      "Data Structures & Algorithms (C++)",
+      "Operating System (Linux)",
+      "OOP (Java)",
+      "DBMS",
+      "Probability & Statistics",
+      "Discrete Mathematics"
+    ]
+  },
+  "skills": {
+    "languages": [
+      "C++",
+      "Python",
+      "JavaScript",
+      "Java"
+    ],
+    "frameworks": [
+      "React.js",
+      "OpenCV",
+      "TensorFlow",
+      "Keras"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Streamlit",
+      "Jupyter Notebook",
+      "Linux",
+      "Docker"
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Brain Tumor Detection using CNN",
+      "description": "Developed a Convolutional Neural Network (CNN) model to classify brain MRI scans for tumor detection with high accuracy. Implemented image preprocessing, augmentation, and model optimization techniques. Deployed an interactive Streamlit web app for real-time image upload and instant predictions.",
+      "tech": [
+        "Python",
+        "TensorFlow",
+        "Keras",
+        "OpenCV",
+        "NumPy",
+        "Pandas",
+        "Streamlit"
+      ],
+      "github": "https://github.com/",
+      "live": "",
+      "highlight": "AI/ML"
+    },
+    {
+      "id": 2,
+      "title": "AI-Powered Vision Assistance System",
+      "description": "Built an AI-powered Vision Assistance System using Python, OpenCV, and YOLOv8 that detects surrounding objects in real time and provides voice alerts with direction and distance guidance. Supports webcam and phone IP camera integration for smart accessibility and navigation assistance.\n",
+      "tech": [
+        "Python",
+        "OpenCV",
+        "YOLOv8",
+        "pyttsx3",
+        "and IP Webcam"
+      ],
+      "github": "https://github.com/simran-arya09/ai-vision-assistant",
+      "live": "",
+      "highlight": "AI/ML"
+    },
+    {
+      "id": 3,
+      "title": "Shortest Path Visualizer",
+      "description": "Built an interactive pathfinding visualizer that demonstrates Dijkstra’s Algorithm in real time on a dynamic grid. Users can place walls, set start/end nodes, and watch shortest-path computation step-by-step with animated traversal. Designed responsive UI with optimized state management for smooth rendering and educational learning experience.",
+      "tech": [
+        "React.js",
+        "JavaScript",
+        "CSS3",
+        "HTML5",
+        "Data Structures",
+        "Algorithms"
+      ],
+      "github": "https://github.com/",
+      "live": "",
+      "highlight": "Web"
+    }
+  ],
+  "activities": [
+    {
+      "org": "Google Developer Group (KIIT)",
+      "role": "Cybersecurity Member",
+      "description": "Actively participated in cybersecurity-focused sessions, workshops, and community initiatives."
+    },
+    {
+      "org": "Coding Ninjas KIIT",
+      "role": "Cybersecurity Member",
+      "description": "Engaged in learning and applying cybersecurity concepts through peer collaboration."
+    },
+    {
+      "org": "TEDx KIIT",
+      "role": "Speaker Connect Officer (2025)",
+      "description": "Assisted in organizing the event and served as liaison between speakers and the organizing team."
+    },
+    {
+      "org": "FED KIIT",
+      "role": "Marketing Executive",
+      "description": "Organized Startup Bootcamp with 300+ registrations. Led Let's Crack GSOC webinar with 250+ registrations. Contributed to Pixel-AI Hackathon."
+    }
+  ],
+  "contact": {
+    "email": "simranrya8989@gmail.com",
+    "phone": "+91 7666319266",
+    "linkedin": "https://www.linkedin.com/in/simran-arya-6618562ab/",
+    "github": "https://github.com/simran-arya09"
+  }
+}
